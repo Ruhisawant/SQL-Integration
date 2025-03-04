@@ -1,0 +1,2 @@
+/Users/ruhisawant/Desktop/School/Mobile App Development/Activity 8/sql_integration/android/app/.cxx/Debug/4q486n1t/x86/CMakeFiles/edit_cache.dir
+/Users/ruhisawant/Desktop/School/Mobile App Development/Activity 8/sql_integration/android/app/.cxx/Debug/4q486n1t/x86/CMakeFiles/rebuild_cache.dir

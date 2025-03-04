@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ruhisawant/Applications/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ruhisawant/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ruhisawant/Desktop/School/Mobile App Development/Activity 8/sql_integration/android/app/.cxx/Debug/4q486n1t/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ruhisawant/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ruhisawant/Desktop/School/Mobile App Development/Activity 8/sql_integration/android/app/.cxx/Debug/4q486n1t/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
