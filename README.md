@@ -1,16 +1,43 @@
-# sql_integration
+# SQFlite Demo App
 
-A new Flutter project.
+## Overview
+This is a Flutter application demonstrating CRUD (Create, Read, Update, Delete) operations using the **SQFlite** package for local SQLite database storage. The app provides a simple UI with buttons to perform database operations.
 
-## Getting Started
+## Features
+- Insert new records into the database
+- Query and display all stored records
+- Update existing records
+- Delete records individually or clear all entries
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- SQFlite (SQLite database for Flutter)
+- Path Provider (to locate the database directory)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Ruhisawant/SQL-Integration.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd sql_integration
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the application:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
+1. **Insert Data**: Click the "Insert" button to add a new record.
+2. **Query Data**: Click the "Query" button to retrieve all records.
+3. **Update Data**: Click the "Update" button to modify an existing record.
+4. **Delete Data**: Click the "Delete" button to remove a record.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License.
